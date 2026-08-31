@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "reorg-tracker-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "reorg-tracker", "run", "dev"],
+      "port": 5173
+    }
+  ]
+}
